@@ -4,16 +4,18 @@ class Solution {
         int col = image[0].length;
 
         for(int i=0;i<row;i++){
-            int left=0, right = image[i].length-1;
-            while(left<right){
-                int temp = image[i][left];
-                image[i][left] = image[i][right];
-                image[i][right] = temp;
-                left++;
-                right--;
+            int st=0, end = image[0].length - 1;
+
+            while(st<end){
+                int temp = image[i][st];
+                image[i][st] = image[i][end];
+                image[i][end] = temp;
+                st++;
+                end--;
             }
+
             for(int j=0;j<col;j++){
-                image[i][j]= 1-image[i][j];
+                image[i][j] = 1 - image[i][j];
             }
         }
         return image;
