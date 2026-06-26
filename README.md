@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Hash Table
 |  |
@@ -15,5 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
