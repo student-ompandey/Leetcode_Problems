@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
