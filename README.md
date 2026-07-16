@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
+| [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -41,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
