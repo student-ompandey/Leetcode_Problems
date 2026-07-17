@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -51,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
