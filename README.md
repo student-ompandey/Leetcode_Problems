@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
