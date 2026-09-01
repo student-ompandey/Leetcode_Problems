@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [1492-the-kth-factor-of-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
@@ -153,4 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1492-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
