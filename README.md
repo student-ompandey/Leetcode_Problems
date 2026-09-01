@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [1492-the-kth-factor-of-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1492-the-kth-factor-of-n) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
