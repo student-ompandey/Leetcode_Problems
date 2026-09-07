@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0217-contains-duplicate) |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
