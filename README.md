@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
