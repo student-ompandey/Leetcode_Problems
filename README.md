@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0724-find-pivot-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Binary Search
