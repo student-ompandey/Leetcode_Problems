@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
