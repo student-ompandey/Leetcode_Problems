@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -280,4 +281,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
