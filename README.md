@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2418-sort-the-people](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2418-sort-the-people) |
 ## Trie
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Pigeonhole Principle
 |  |
