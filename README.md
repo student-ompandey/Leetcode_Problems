@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2404-most-frequent-even-element](https://github.com/student-ompandey/Leetcode_Problems/tree/master/2404-most-frequent-even-element) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
