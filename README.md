@@ -326,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
