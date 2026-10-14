@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0231-power-of-two) |
 ## Quicksort
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0707-design-linked-list](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
