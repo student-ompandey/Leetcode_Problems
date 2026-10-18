@@ -345,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/student-ompandey/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/student-ompandey/Leetcode_Problems/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
